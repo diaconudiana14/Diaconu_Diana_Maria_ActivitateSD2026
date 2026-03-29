@@ -1,0 +1,6 @@
+1,20,9.50,Andrei Popescu,ACS,A
+2,21,8.75,Maria Ionescu,ASE,B
+3,22,7.90,Vlad Constantinescu,ACS,C
+4,20,9.10,Elena Dumitrescu,Drept,A
+5,23,8.40,Radu Marin,ACS,B
+6,21,9.80,Ioana Petcu,Medicina,C
