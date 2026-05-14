@@ -297,7 +297,7 @@ Credit getCreditCuSumaMaxima(NodArbore* radacina) {
 }
 
 int main() {
-	NodArbore* arbore = citireArboreDeCrediteDinFisier("credite.txt.txt");
+	NodArbore* arbore = citireArboreDeCrediteDinFisier("credite.txt");
 
 	if (arbore == NULL) {
 		printf("Arborele nu contine niciun credit.\n");
