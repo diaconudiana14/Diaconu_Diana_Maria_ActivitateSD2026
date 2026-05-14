@@ -1,0 +1,5 @@
+101,60,45000.5,ING,Nitu Livia,F
+75,36,21000.0,BCR,Dumitru Gabriel,V
+120,84,69000.75,BT,Dumitrescu Ana,F
+50,24,15000.0,BRD,Popescu Ana,V
+95,48,30000.25,Raiffeisen,Stefan Radu,F
