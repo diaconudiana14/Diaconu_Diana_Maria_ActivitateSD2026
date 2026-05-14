@@ -1,0 +1,6 @@
+101,60,45000,7.5,Popescu Ion,BCR,A
+102,120,90000,8.2,Ionescu Ana,BT,B
+103,36,25000,6.9,Georgescu Mihai,ING,A
+104,240,300000,9.1,Dumitrescu Elena,BRD,C
+105,84,70000,7.8,Marin Andrei,BCR,B
+106,48,40000,6.5,Vasilescu Ioana,CEC,A
