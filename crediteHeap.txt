@@ -1,0 +1,10 @@
+1,60,250000.5,BCR,Popescu Ana,A
+2,36,120000.75,BRD,Ionescu Mihai,B
+3,120,500000.0,ING,Dumitrescu Ioana,A
+4,24,80000.0,Raiffeisen,Marinescu Vlad,C
+5,84,300000.25,CEC,Georgescu Maria,B
+6,48,180000.0,AlphaBank,Stan Andrei,A
+7,72,220000.5,UniCredit,Ilie Raluca,B
+8,96,450000.0,BT,Enache Sorin,A
+9,12,50000.0,OTP,Neagu Elena,C
+10,30,100000.0,Garanti,Voicu Dan,B
